@@ -17,10 +17,6 @@ Like this...
 
 ![hacking 1](https://curriculum-content.s3.amazonaws.com/prework/hack.gif)
 
-or this...
-
-![hacking 3](https://curriculum-content.s3.amazonaws.com/prework/hacking.gif)
-
 You might have wondered what's going on there. These computer "heroes" are often
 using a way of working with the computer called the "command-line interface" or
 "CLI." In the next lessons, you're going to learn to use the CLI so that you can
